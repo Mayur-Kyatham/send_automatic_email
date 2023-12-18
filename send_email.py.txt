@@ -1,4 +1,4 @@
-# Send Automatic Emails using 
+# Send Automatic Emails using Python
 
 import os
 import random
