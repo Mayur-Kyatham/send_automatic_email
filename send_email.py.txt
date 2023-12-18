@@ -1,3 +1,5 @@
+# Send Automatic Emails using 
+
 import os
 import random
 import smtplib
