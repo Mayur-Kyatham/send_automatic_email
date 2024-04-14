@@ -12,6 +12,7 @@ def automatic_email():
     s.starttls()
     s.login("Your Gmail Account", "Your App Password")
     s.sendmail('&&&&&&&&&&&', email, message)
+    
     print("Email Sent!")
     
 automatic_email()
