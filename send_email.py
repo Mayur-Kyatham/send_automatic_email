@@ -4,7 +4,6 @@ import os
 import random
 import smtplib
 
-
 def automatic_email():
     user = input("Enter Your Name >>: ")
     email = input("Enter Your Email >>: ")
